@@ -39,20 +39,23 @@ web広告を出します。
 - ログイン
 - 新規登録
 - マイページ
-- 投稿機能(画像・タイトル・本文・タグ・投稿日・ペット名)
+- 投稿機能(画像・タイトル・本文・タグ・投稿日)
 - 投稿一覧画面
 - 投稿詳細画面
 - メールアドレス、パスワード再設定機能
 - いいね機能
-- コメント投稿機能
 - 文鳥の魅力の記事をTOPページに書く
 - タグ機能
-- twitterのシェアボタン
 1. 本リリース
 - 動画投稿機能
-- 質問掲示板作成機能
+- 掲示板作成機能
 - タグ検索機能
+- チャット機能
+- twitterのシェアボタン
 
 **機能の実装方針予定**
 - チャット機能(WebSocket・ActionCable)
 - 画像加工・合成機能(MiniMagick・CarrierWave)
+
+### 画面遷移図
+https://www.figma.com/file/Foa3iE0m6xFgTsaG3F082S/test?type=design&node-id=0-1&mode=design&t=HKNujnviZZ5RwpXA-0
