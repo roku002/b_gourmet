@@ -59,3 +59,6 @@ web広告を出します。
 
 ### 画面遷移図
 https://www.figma.com/file/Foa3iE0m6xFgTsaG3F082S/test?type=design&node-id=0-1&mode=design&t=HKNujnviZZ5RwpXA-0
+
+### ER図
+https://lucid.app/lucidchart/a56e3844-daa0-4c54-b481-7f6629e5b2b0/edit?invitationId=inv_a5c29163-02f6-4bff-a264-7789b7542c52&page=3_y-Xr72obdI#
