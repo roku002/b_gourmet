@@ -1,64 +1,24 @@
-# サービス名
-## 文鳥ラバー（仮）
+# README
 
-**サービス概要**
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-文鳥好きによる文鳥好きの為のアプリ
+Things you may want to cover:
 
-**このサービスへの思い・作りたい理由**
+* Ruby version
 
-以前文鳥を飼っていたので、同じ文鳥好き同士が集まれるアプリがあればと思いました。
+* System dependencies
 
-**ユーザー層について**
+* Configuration
 
-小鳥を飼うのは決めているが、小鳥の種類を迷っている方
-文鳥を飼っている方
-文鳥が好きな方
-文鳥について質問がある方
-小鳥が好きな方
+* Database creation
 
-**サービスの利用イメージ**
+* Database initialization
 
-文鳥の魅力を伝えたり、同じ文鳥を飼っている人同士で
-情報交換やコミュニティが取れる場所にしていきたい
+* How to run the test suite
 
-**ユーザーの獲得について**
+* Services (job queues, cache servers, search engines, etc.)
 
-自分のXで宣伝します。
-web広告を出します。
+* Deployment instructions
 
-**サービスの差別化ポイント・推しポイント**
-
-調べたとこと、犬や猫のアプリは多かったが
-文鳥をメインにしているアプリはありませんでした
-昔飼っていたこともあり、文鳥をあまり知らない人にも文鳥の
-魅力を知ってもらえるアプリにしていきたい
-
-**機能候補**
-1. MVP
-- ログイン
-- 新規登録
-- マイページ
-- 投稿機能(画像・タイトル・本文・タグ・投稿日)
-- 投稿一覧画面
-- 投稿詳細画面
-- メールアドレス、パスワード再設定機能
-- いいね機能
-- 文鳥の魅力の記事をTOPページに書く
-- タグ機能
-1. 本リリース
-- 動画投稿機能
-- 掲示板作成機能
-- タグ検索機能
-- チャット機能
-- twitterのシェアボタン
-
-**機能の実装方針予定**
-- チャット機能(WebSocket・ActionCable)
-- 画像加工・合成機能(MiniMagick・CarrierWave)
-
-### 画面遷移図
-https://www.figma.com/file/Foa3iE0m6xFgTsaG3F082S/test?type=design&node-id=0-1&mode=design&t=HKNujnviZZ5RwpXA-0
-
-### ER図
-https://lucid.app/lucidchart/a56e3844-daa0-4c54-b481-7f6629e5b2b0/edit?invitationId=inv_a5c29163-02f6-4bff-a264-7789b7542c52&page=3_y-Xr72obdI#
+* ...
